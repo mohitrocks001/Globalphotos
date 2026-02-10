@@ -1,0 +1,7 @@
+{
+  "name": "PicVote - The Ultimate Image Contest",
+  "description": "A high-end platform for photo contests. Vote for your favorites, see real-time leaderboards, and get AI-powered critiques of candidate entries using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
